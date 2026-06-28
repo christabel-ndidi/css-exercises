@@ -1,5 +1,5 @@
 /* Add CSS Styling */
-div p{
+.container .text{
     font-size:20px;
     background-color:yellow;
     color:red;
