@@ -4,11 +4,11 @@
     font-size:28px;
 }
 
-#first{
+.first.collective{
     background-color:black;
     color:white;
 }
 
-#second{
+.second.collective{
     background-color: yellow;
 }
